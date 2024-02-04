@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="">
-  </div>
+![Nice Memory](https://i.ibb.co/0hy1XRp/CE745-B61-8-C0-A-4991-A8-BC-D89043-AB4-F65-1-201-a.jpg)
